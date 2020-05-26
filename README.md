@@ -1,1 +1,1 @@
-**Cancer_MLclassification**: This is my first machine learning project. I compared the use of k-nearest neighbors and Naive Bayes in performing binary classification on the Wisconsin Breast Cancer dataset.
+**Cancer Classification**: This was my first machine learning project. I compared the use of k-nearest neighbors and Naive Bayes in performing binary classification on the Wisconsin Breast Cancer dataset.
